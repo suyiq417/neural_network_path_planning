@@ -1,0 +1,2 @@
+initial_valid_ratio,final_valid_ratio,initial_success_rate,final_success_rate,initial_avg_length,final_avg_length,length_change_percent,emergency_avoidance_improvement,avg_congestion_reduction
+100.0,100.0,100.0,100.0,12.37378640776699,12.70873786407767,2.706943899568448,0.33495145631067835,-7.914823271966129
