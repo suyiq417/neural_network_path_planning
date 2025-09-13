@@ -164,6 +164,7 @@ python src/test_dynamic_planning.py
 ## 引用
 
 本项目基于下面的论文：
+```
 @article{PENG201971,
 title = {A self-learning dynamic path planning method for evacuation in large public buildings based on neural networks},
 journal = {Neurocomputing},
@@ -177,3 +178,4 @@ author = {Yang Peng and Sun-Wei Li and Zhen-Zhong Hu},
 keywords = {Evacuation, Path planning, Neural network, Building information modeling, Artificial intelligence},
 abstract = {Evacuation path planning is of significant importance to safely and efficiently evacuate occupants inside public buildings. Current computer simulation methods carry out evacuation analysis and then provide emergency education and management with a vivid virtual environment. However, efficient evacuation path planning approaches for evacuation guidance still meet the challenges of generating the analysis models, and lacking of real-time analysis methods under dynamic circumstances. In this study, a dynamic path planning approach based on neural networks is proposed for evacuation planning in large public buildings. First, an automatic process to develop the evacuation analysis model with simplified but sufficient information is presented. Then a path generation algorithm is proposed, together with an evaluation process, to generate a number of training sets for policy neural networks. When the primary policy neural network is preliminarily trained, it falls into a self-learning iteration process. Finally, the approach embeds a dynamic algorithm to simulate the mutual influences among all occupants in the building. The neural network was trained according to a real large public building and then the approach managed to provide rapid and feasible evacuation guidance for both occupants to escape in multiple scenarios and managers to design the evacuation strategy. Test results showed that the proposed approach runs 8–10 times faster than existing software and traditional search algorithms.}
 }
+```
